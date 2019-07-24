@@ -1,0 +1,2 @@
+1、cover-view无法设置透明度
+2、cover-view无法设置层级
