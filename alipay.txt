@@ -1,3 +1,5 @@
 1、cover-view无法设置透明度
 2、cover-view无法设置层级
   解决方案： 先渲染的被覆盖，设置延迟
+3、cover-image
+  无法适用mode属性
